@@ -51,7 +51,7 @@ public class joon1929_1 {
             for(int j = i*i; j < prime.length; j += i){
                 // 4 < 17, 4,6,8,10,12,14,16
                 // 9 < 17, 9,12,15
-                // 16 < 17 16
+                // 16 < 17, 16
                 prime[j] = true;
             }
         }
