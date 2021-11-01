@@ -35,7 +35,7 @@ public class joon10818 {
 			
 		}
 		
-		//¹è¿­Á¤·Ä Arrays.sort();
+		//Â¹Ã¨Â¿Â­ÃÂ¤Â·Ã„ Arrays.sort();
 		Arrays.sort(arr);
 		System.out.println(arr[0]+" "+arr[n-1]);
 		
