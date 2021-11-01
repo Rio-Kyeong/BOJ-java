@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 
 
-public class joon1157 {
+public class Joon1157 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

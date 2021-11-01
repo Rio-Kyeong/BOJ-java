@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 /**
  * 네 번째 점
  */
-public class joon3009 {
+public class Joon3009 {
 
     public static void main(String[] args) throws IOException {
 

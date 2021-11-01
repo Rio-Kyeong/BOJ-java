@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
-public class joon10809 {
+public class Joon10809 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -21,7 +21,7 @@ public class joon10809 {
 		for(int i = 0; i < s.length(); i++) {
 			char ch = s.charAt(i);
     
-			if(arr[ch - 'a'] == -1) {// arr ¿ø¼Ò°ªÀÌ -1 ÀÎ °æ¿ì¿¡¸¸ ÃÊ±âÈ­
+			if(arr[ch - 'a'] == -1) {// arr ï¿½ï¿½ï¿½Ò°ï¿½ï¿½ï¿½ -1 ï¿½ï¿½ ï¿½ï¿½ì¿¡ï¿½ï¿½ ï¿½Ê±ï¿½È­
 				arr[ch - 'a'] = i;
 			}
 		}

@@ -1,7 +1,7 @@
 package ifmun;
 import java.util.Scanner;
 
-public class joon1330 {
+public class Joon1330 {
 	public static void main(String[] args) {
 	int a, b;
 	

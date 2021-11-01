@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
  * Fly me to the Alpha Centauri
  * reference : https://st-lab.tistory.com/79
  */
-public class joon1011 {
+public class Joon1011 {
 
     public static void main(String[] args) throws IOException {
 

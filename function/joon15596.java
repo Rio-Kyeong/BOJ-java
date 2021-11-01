@@ -1,6 +1,6 @@
 package function;
 
-public class joon15596 {
+public class Joon15596 {
 	
 	long sum(int[] a) {
 		long sum = 0;

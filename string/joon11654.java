@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 
 
 
-public class joon11654 {
+public class Joon11654 {
 
 	public static void main(String[] args) {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

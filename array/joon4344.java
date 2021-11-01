@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 
-public class joon4344 {
+public class Joon4344 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		

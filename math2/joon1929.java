@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
  * 소수 구하기
  * 에라토스테네스의 체 사용x
  */
-public class joon1929 {
+public class Joon1929 {
     public static StringBuilder sb;
 
     public static void main(String[] args) throws IOException {

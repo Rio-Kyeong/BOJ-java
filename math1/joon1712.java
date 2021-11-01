@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 
 
 
-public class joon1712 {
+public class Joon1712 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -16,9 +16,9 @@ public class joon1712 {
 		String input = br.readLine();
 		StringTokenizer st = new StringTokenizer(input," ");
 		
-		int a = Integer.parseInt(st.nextToken()); //°íÁ¤ºñ¿ë
-		int b = Integer.parseInt(st.nextToken()); //°¡º¯ºñ¿ë
-		int c = Integer.parseInt(st.nextToken()); //ÆÇ¸Åºñ¿ë
+		int a = Integer.parseInt(st.nextToken()); //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+		int b = Integer.parseInt(st.nextToken()); //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+		int c = Integer.parseInt(st.nextToken()); //ï¿½Ç¸Åºï¿½ï¿½
 		int cnt = 0;
 		
 		if(b >= c) {

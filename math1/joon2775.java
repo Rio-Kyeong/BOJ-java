@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
  * k층 n호 = (k-1)층 1호 + (k-1)층 2호 + ... + (k-1)층 n호
  *
  */
-public class joon2775 {
+public class Joon2775 {
 
     public static void main(String[] args) throws IOException {
 

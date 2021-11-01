@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
  * 설탕 배달
  * 규칙을 찾기 어렵다.....
  */
-public class joon2839 {
+public class Joon2839 {
 
     public static void main(String[] args) throws IOException {
 

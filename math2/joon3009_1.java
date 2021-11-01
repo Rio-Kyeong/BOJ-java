@@ -11,7 +11,7 @@ import java.util.StringTokenizer;
  * 네 번째 점
  * List 이용하기
  */
-public class joon3009_1 {
+public class Joon3009_1 {
 
     public static void main(String[] args) throws IOException {
 

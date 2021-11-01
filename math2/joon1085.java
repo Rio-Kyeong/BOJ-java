@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 /**
  * 직사각형에서 탈출
  */
-public class joon1085 {
+public class Joon1085 {
 
     public static void main(String[] args) throws IOException {
 

@@ -3,7 +3,7 @@ package math1;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class joon2869 {
+public class Joon2869 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

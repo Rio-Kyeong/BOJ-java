@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
  * 짝수 행은 오른쪽에서 왼쪽, 홀수 행은 왼쪾에서 오른쪽으로 순서가 커진다.
  * 행 번호(line)와 분수의 숫자는 같다.
  */
-public class joon1193 {
+public class Joon1193 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

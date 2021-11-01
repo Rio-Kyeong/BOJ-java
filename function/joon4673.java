@@ -1,6 +1,6 @@
 package function;
 
-public class joon4673 {
+public class Joon4673 {
 	
 	public static void main(String[] args) {
 		boolean[] flag = new boolean[10001];

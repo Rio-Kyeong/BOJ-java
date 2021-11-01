@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
 
-public class joon1978 {
+public class Joon1978 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new java.io.InputStreamReader(System.in));
@@ -14,7 +14,7 @@ public class joon1978 {
 		StringTokenizer st = new StringTokenizer(decimal," ");
 		
 		if(st.countTokens() != n) {
-			System.out.println(n+"°³¸¦ ´Ù½Ã ÀÔ·ÂÇØÁÖ¼¼¿ä.");
+			System.out.println(n+"ï¿½ï¿½ï¿½ï¿½ ï¿½Ù½ï¿½ ï¿½Ô·ï¿½ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½.");
 			return;
 		}
 		
@@ -26,9 +26,9 @@ public class joon1978 {
 			if(eq == 1) {
 				continue;
 			}
-			for(int j = 2; j < eq; j++) {//2ºÎÅÍ eqÀü±îÁö ³ª¸ÓÁö ºñ±³
+			for(int j = 2; j < eq; j++) {//2ï¿½ï¿½ï¿½ï¿½ eqï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½
 				
-				if(eq % j == 0) { //³ª¸ÓÁö°¡ 0ÀÌ¶ó¸é ¼Ò¼ö¾Æ´Ô
+				if(eq % j == 0) { //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 0ï¿½Ì¶ï¿½ï¿½ ï¿½Ò¼ï¿½ï¿½Æ´ï¿½
 					flag = true;
 				}
 			}	

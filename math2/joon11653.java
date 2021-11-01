@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * 소인수분해
  */
-public class joon11653 {
+public class Joon11653 {
 
     public static void main(String[] args) throws IOException {
 

@@ -14,7 +14,7 @@ import java.util.StringTokenizer;
  * T(테스트 데이터)
  * H(호텔의 층 수) W(각 층의 방) N(몇 번째 손님)
  */
-public class joon10250 {
+public class Joon10250 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

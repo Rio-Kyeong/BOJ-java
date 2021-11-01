@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * 설탕 배달
  */
-public class joon2839_2 {
+public class Joon2839_2 {
 
     public static void main(String[] args) throws IOException {
 

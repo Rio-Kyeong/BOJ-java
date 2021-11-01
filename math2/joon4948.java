@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * 베르트랑 공준
  */
-public class joon4948 {
+public class Joon4948 {
 
     public static boolean[] prime;
 

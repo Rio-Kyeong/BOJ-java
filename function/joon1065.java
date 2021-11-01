@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class joon1065 {
+public class Joon1065 {
 	
 	public static int sequence(int n) {
 		int hansuCnt = 0;
@@ -29,7 +29,7 @@ public class joon1065 {
 		return hansuCnt;
 	}
 	
-	//stream¿¬½À
+	//streamï¿½ï¿½ï¿½ï¿½
 	public static void main(String[] args) {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
 
-public class joon10952 {
+public class Joon10952 {
 
 	public static void main(String[] args) throws IOException{
 		

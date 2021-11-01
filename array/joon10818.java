@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class joon10818 {
+public class Joon10818 {
 
 	public static void main(String[] args) throws IOException{
 		
@@ -35,7 +35,7 @@ public class joon10818 {
 			
 		}
 		
-		//¹è¿­Á¤·Ä Arrays.sort();
+		//ï¿½è¿­ï¿½ï¿½ï¿½ï¿½ Arrays.sort();
 		Arrays.sort(arr);
 		System.out.println(arr[0]+" "+arr[n-1]);
 		

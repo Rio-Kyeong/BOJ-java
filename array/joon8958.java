@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class joon8958 {
+public class Joon8958 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		

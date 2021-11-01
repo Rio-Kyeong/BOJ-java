@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
-public class joon14681 {
+public class Joon14681 {
 
 	public static void main(String[] args)throws IOException {
 	

@@ -2,7 +2,7 @@ package formun;
 
 import java.util.Scanner;
 
-public class joon2739 {
+public class Joon2739 {
 
 	public static void main(String[] args) {
 	int N;

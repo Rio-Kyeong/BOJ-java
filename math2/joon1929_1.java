@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
  * 가장 먼저 소수를 판별할 범위만큼 배열을 할당하여, 해당하는 값을 넣어주고, 이후에 하나씩 지워나가는 방법을 이용
  * 예) 3 과 16 사이의 소수를 구해보자 !
  */
-public class joon1929_1 {
+public class Joon1929_1 {
     public static boolean prime[];
 
     public static void main(String[] args) throws IOException {

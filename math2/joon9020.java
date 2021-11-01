@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
  * 골드바흐의 추측
  * 짝수 n을 절반을 나누어서 검사하였다.
  */
-public class joon9020 {
+public class Joon9020 {
 
     public static boolean[] prime;
 
