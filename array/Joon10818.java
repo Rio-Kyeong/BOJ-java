@@ -35,11 +35,7 @@ public class Joon10818 {
 			
 		}
 		
-<<<<<<< HEAD:array/joon10818.java
 		//�迭���� Arrays.sort();
-=======
-		//¹è¿­Á¤·Ä Arrays.sort();
->>>>>>> ef3e609b095831c0d027bbc0fd51b69df450168e:array/Joon10818.java
 		Arrays.sort(arr);
 		System.out.println(arr[0]+" "+arr[n-1]);
 		
