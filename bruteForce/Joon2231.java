@@ -12,7 +12,6 @@ public class Joon2231 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuilder sb = new StringBuilder();
 
         int n = Integer.parseInt(br.readLine());
         int result = 0;
